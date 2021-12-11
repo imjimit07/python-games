@@ -1,7 +1,7 @@
 print("Welcome to Games!")
 print("Please choose a game you want to play.")
 
-print("1) Sudoku")
+print("1) Sudoku Solver")
 print("2) 2048")
 print("3) Hangman")
 
